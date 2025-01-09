@@ -27,6 +27,7 @@
     margin-left: 45px;
     padding-top: 45px;
 }
+
 .breadcrumb {
     margin: 0;
     padding: 10px;
@@ -47,7 +48,7 @@
     top: 0;
     left: 100%;
     border-style: solid;
-    border-color: transparent;
+    border-color: aqua;
     border-left-color: #aedfc6;
     border-width: 14px 12px;
     width: 0;
@@ -79,4 +80,32 @@
     text-align: center;
     margin: auto;
     font-size: 30px;
-} 
+}
+
+.rion {
+    vertical-align: bottom;
+}
+
+img.rion1 {
+    width: 100%;
+    height: 305px;
+    object-fit: cover;
+}
+.haikei1{
+    background-image: url(../images/IMG_0364.webp);
+    background-size: cover;
+    width: 100%;
+    height: 1200px;
+}
+.tyfw{
+    text-align: center;
+    color: aqua;
+    font-size: 40px;
+}
+body{
+    background-color: #6ff163;
+}
+.maps{
+    text-align: center;
+    margin: auto;
+}
